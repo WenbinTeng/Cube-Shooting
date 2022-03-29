@@ -3,22 +3,22 @@
 
 ## Demo
 
-![1](.\img\light.jpg)
+![1](./img/light.jpg)
 <center>斜版白天视图</center>
 
 
 
-![2](.\img\night.jpg)
+![2](./img/night.jpg)
 <center>斜版黑夜视图</center>
 
 
 
-![3](.\img\side.jpg)
+![3](./img/side.jpg)
 <center>横版视图</center>
 
 
 
-![4](.\img\top.jpg)
+![4](./img/top.jpg)
 <center>纵版视图</center>
 
 
