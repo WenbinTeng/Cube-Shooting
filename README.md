@@ -3,25 +3,17 @@
 
 ## Demo
 
+##### 斜版白天视图
 ![1](./img/light.jpg)
-<center>斜版白天视图</center>
 
-
-
+##### 斜版黑夜视图
 ![2](./img/night.jpg)
-<center>斜版黑夜视图</center>
 
-
-
+##### 横版视图
 ![3](./img/side.jpg)
-<center>横版视图</center>
 
-
-
+##### 纵版视图
 ![4](./img/top.jpg)
-<center>纵版视图</center>
-
-
 
 ## Download
 [Release](https://github.com/WenbinTeng/Cube-Shooting/releases)
